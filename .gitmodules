@@ -1,0 +1,6 @@
+[submodule "boardbook.client"]
+	path = boardbook.client
+	url = https://github.com/AndyGates/boardbook.client.git
+[submodule "boardbook.server"]
+	path = boardbook.server
+	url = https://github.com/AndyGates/boardbook.server.git
