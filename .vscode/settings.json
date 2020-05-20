@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\Andrew\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "eslint.workingDirectories": [
+        { "mode": "auto" }
+    ]
+}
