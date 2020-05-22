@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Andrew\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "python.pythonPath": "boardbook.server\\.venv\\Scripts\\python.exe",
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true,
     },
